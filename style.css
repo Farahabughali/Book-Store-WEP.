@@ -599,20 +599,16 @@ display: block;
     line-height: 1.6;
     margin: 0.625rem 0;
   }
-  .card-footer {
+ 
+  .card .icons {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    padding: 0.625rem 1rem;
+    align-items: center;
+    margin: 0.625rem 1.25rem;
+    padding-top: 0;
+  
   }
-  .card-footer .icon {
-    font-size: 1.25rem;
-    color: #158677;
-    cursor: pointer;
-  }
-  .card-footer .icon:hover {
-    color: #1abc9c;
-  }
+  
 
 
 footer {
