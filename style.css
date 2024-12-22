@@ -571,12 +571,12 @@ display: block;
 }
 .card-container {
     display: flex;
-    gap: 20px;
+    gap: 1.25rem;
   }
   .card {
     background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
     width: 100;
     overflow: hidden;
   }
@@ -586,27 +586,27 @@ display: block;
     object-fit: cover;
   }
   .card-content {
-    padding: 15px;
+    padding: 1rem;
   }
   .card-content h3 {
     margin: 0;
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #1abc9c;
   }
   .card-content p {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #777;
     line-height: 1.6;
-    margin: 10px 0;
+    margin: 0.625rem 0;
   }
   .card-footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 15px;
+    padding: 0.625rem 1rem;
   }
   .card-footer .icon {
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #158677;
     cursor: pointer;
   }
