@@ -552,7 +552,7 @@ display: block;
 }
 .buttonbanner{
   position: absolute;
-  bottom: 5rem;
+  bottom: 35rem;
   left:11.42%;
   transform: translateX(-50%); 
 }
@@ -735,4 +735,3 @@ form button:hover {
   color: #089a9a;
 
 }
-
