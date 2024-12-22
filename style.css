@@ -552,7 +552,7 @@ display: block;
 }
 .buttonbanner{
   position: absolute;
-  bottom: 35rem;
+  bottom: 33rem;
   left:11.42%;
   transform: translateX(-50%); 
 }
