@@ -426,7 +426,7 @@ header img {
     
       }
 
-        .card{
+        .arrival-card{
           flex: 0 0 auto;
         width: 11rem;
         border: 0.0625rem solid #7a7575;
@@ -439,16 +439,16 @@ header img {
           margin: 0.25rem;
        transition: box-shadow 0.3 ease ;
         }
-        .card:hover{
+        .arrival-card:hover{
           transform: translateY(-0.3125rem);
           box-shadow: 0 0.375rem 0.75rem #089a9a;
         }
-        .card img{
+        .arrival-card img{
           width: 80%;
           box-shadow: #787777;
           
         }
-        .card img:hover{
+        .arrival-card img:hover{
           transform: translateY(-0.3125rem);
           box-shadow:0.3rem 0.3rem 0.3rem #7a7575;
         }
